@@ -14,17 +14,23 @@
 ---
 
 ### 📬 Connect with me
-<a href="https://www.linkedin.com/in/rawan-kariri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
-<a href="mailto:rawan.kariri@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rawan-kariri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rawan.kariri@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ### 🛠 Languages and Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="PHP" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" height="40" alt="phpMyAdmin" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-f58220?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Rawan-78&show_icons=true&theme=dark&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-78&layout=compact&theme=dark&hide_border=true" height="180" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rawan-78&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-78&layout=compact&theme=dark" />
+</p>
