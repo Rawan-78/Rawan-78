@@ -30,7 +30,4 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawan-78&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-78&layout=compact&theme=dark" width="45%" />
-</p>
+![Rawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawan-78&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-78&layout=compact&theme=dark)
