@@ -5,7 +5,7 @@
 ---
 
 - 🎓 Computer Science graduate from Jazan University (GPA: 4.54/5, Honors).
-- 💻 Experienced in building web apps (PHP, React, Node.js, MySQL).
+- 💻 Experienced in building web apps using PHP and managing databases via phpMyAdmin.
 - 🛠️ Skilled in IT Support, system maintenance, and troubleshooting.
 - 📊 Proficient in data analysis (Power BI) and software engineering.
 - 🚀 Always learning new technologies to stay updated.
@@ -14,16 +14,18 @@
 ---
 
 ### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawan-kariri/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawan.kariri@outlook.com)
+<a href="https://www.linkedin.com/in/rawan-kariri/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rawan.kariri@outlook.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### 🛠 Languages and Tools
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/phpMyAdmin-f58220?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 ---
 
 ### 📊 GitHub Stats
-![Rawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawan-78&show_icons=true&theme=dark)
+![Rawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawan-78&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-78&layout=compact&theme=dark)
