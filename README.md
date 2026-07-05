@@ -1,8 +1,14 @@
 # Hi 👋, I'm Rawan Kariri
 
+---
+
 ### Full-Stack Web Developer | IT Support Specialist | AI Enthusiast
 
----
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 - 🎓 Computer Science graduate from Jazan University (GPA: 4.54/5, Honors).
 - 💻 Experienced in building web apps using PHP and managing databases via phpMyAdmin.
@@ -10,6 +16,15 @@
 - 📊 Proficient in data analysis (Power BI) and software engineering.
 - 🚀 Always learning new technologies to stay updated.
 - 💡 Fun fact: I love coding and building smart solutions!
+
+    </td>
+    <td valign="top" width="40%">
+
+<img src="https://raw.githubusercontent.com/mlc-ai/mlc-ai.github.io/master/assets/images/human.png" width="100%" />
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,15 +39,5 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/phpMyAdmin-f58220?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawan-78&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-78&layout=compact&theme=dark" width="48%" />
 </p>
