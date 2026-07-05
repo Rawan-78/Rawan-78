@@ -2,7 +2,7 @@
 
 ---
 
-### Full-Stack Web Developer | IT Support Specialist | AI Enthusiast
+### IT fresh graduate | Interested in Full-Stack Web Development | phpMyAdmin | IT Support Specialist
 
 <br>
 
@@ -10,7 +10,7 @@
   <tr>
     <td valign="top" width="60%">
 
-- 🎓 Computer Science graduate from Jazan University (GPA: 4.54/5, Honors).
+- 🎓 Graduate with a Bachelor's degree in Information Technology from Jazan University.
 - 💻 Experienced in building web apps using PHP and managing databases via phpMyAdmin.
 - 🛠️ Skilled in IT Support, system maintenance, and troubleshooting.
 - 📊 Proficient in data analysis (Power BI) and software engineering.
