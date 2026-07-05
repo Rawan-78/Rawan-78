@@ -6,9 +6,7 @@
 
 <br>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<img align="right" src="https://raw.githubusercontent.com/mlc-ai/mlc-ai.github.io/master/assets/images/human.png" width="300" />
 
 - 🎓 Graduate with a Bachelor's degree in Information Technology from Jazan University.
 - 💻 Experienced in building web apps using PHP and managing databases via phpMyAdmin.
@@ -17,14 +15,7 @@
 - 🚀 Always learning new technologies to stay updated.
 - 💡 Fun fact: I love coding and building smart solutions!
 
-    </td>
-    <td valign="top" width="40%">
-
-<img src="https://raw.githubusercontent.com/mlc-ai/mlc-ai.github.io/master/assets/images/human.png" width="100%" />
-
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
