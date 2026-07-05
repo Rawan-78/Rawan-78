@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Rawan Kariri
 
-<!--
-**Rawan-78/Rawan-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science graduate | Full-Stack Web Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+- 🎓 Computer Science graduate from Jazan University (GPA: 4.54/5).
+- 💻 Experienced in building web apps (PHP, React, Node.js, MySQL).
+- 📊 Skilled in Data Analysis & Software Engineering.
+- 🚀 Always learning new technologies and building cool projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Connect with me
+- 📧 Email: rawan.kariri@outlook.com
+- 📱 Phone: 0559152998
