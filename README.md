@@ -1,34 +1,58 @@
-# Hi 👋, I'm Rawan Kariri
+<h1 align="center">Hi 👋, I'm Rawan Kariri</h1>
+<h3 align="center">Computer Science Graduate | Software & AI Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=20&duration=3000&pause=1000&color=5B9BF0&center=true&vCenter=true&width=600&lines=Building+data-driven+applications;Full-Stack+%2B+AI+Developer;Jazan+University+%7C+GPA+4.54%2F5" alt="Typing SVG" />
+</p>
 
 ---
 
-### IT fresh graduate | Interested in Full-Stack Web Development | phpMyAdmin | IT Support Specialist
-
-<br>
-
-<img align="right" src="https://raw.githubusercontent.com/mlc-ai/mlc-ai.github.io/master/assets/images/human.png" width="300" />
-
-- 🎓 Graduate with a Bachelor's degree in Information Technology from Jazan University.
-- 💻 Experienced in building web apps using PHP and managing databases via phpMyAdmin.
-- 🛠️ Skilled in IT Support, system maintenance, and troubleshooting.
-- 📊 Proficient in data analysis (Power BI) and software engineering.
-- 🚀 Always learning new technologies to stay updated.
-- 💡 Fun fact: I love coding and building smart solutions!
-
-<br clear="right"/>
+- 🎓 Computer Science graduate from **Jazan University**, GPA **4.54/5** (Second Class Honors)
+- 🧠 Focused on **data-driven applications**, full-stack development, and smart AI-powered solutions
+- 🏥 Completed a **Tamheer internship at Jazan Health Cluster**, where I built 4 production systems from the ground up:
+  Smart Queue System, "Mueen" Platform, Task Management Dashboard, and an Emergency Codes System
+- 💻 Recent work: **Tma'na** (mental health monitoring app) and **Link Scan** (suspicious link detector)
+- 📫 How to reach me: **rawan.kariri@outlook.com**
+- 📱 Phone: **0559152998**
+- ⚡ Fun fact: I love turning complex problems into simple, smart solutions!
 
 ---
 
-### 📬 Connect with me
+### 🔗 Connect with me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/rawan-kariri/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rawan.kariri@outlook.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rawan-kariri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rawan.kariri@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-### 🛠 Languages and Tools
+### 🛠️ Languages and Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-f58220?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=php,python,java,js,react,nodejs,mysql,firebase,figma,androidstudio,vscode" alt="Skills" />
 </p>
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rawan-78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rawan's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-78&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rawan-78&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **Tma'na** | Mental health monitoring website — symptom tracking, caregiver access, and communication with healthcare providers | Firebase, FlutterFlow |
+| **Link Scan** | Suspicious link detection website using Google APIs for URL analysis | Google APIs, Cybersecurity |
+
+---
+
+<p align="center"><i>Thanks for stopping by — always happy to connect and collaborate!</i></p>
